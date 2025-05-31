@@ -1,0 +1,13 @@
+# C/C++ build files
+cmake-build-*/
+*.o
+*.out
+*.exe
+
+# IDE and OS files
+.idea/
+*.iml
+*.DS_Store
+
+# Optional: avoid uploading large matrix outputs
+*.csv
