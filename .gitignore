@@ -1,13 +1,17 @@
-# C/C++ build files
+# CLion
+.idea/
+*.iml
 cmake-build-*/
+
+# Build
 *.o
 *.out
 *.exe
 
-# IDE and OS files
-.idea/
-*.iml
-*.DS_Store
-
-# Optional: avoid uploading large matrix outputs
+# Output dati
 *.csv
+*.txt
+*.png
+
+# Sistema
+.DS_Store
