@@ -1,0 +1,4 @@
+1. Gather results and statics of the verious versions of the program
+2. Verify if the serial initialization is better then the parallel one
+3. Try an implementation of MPI together with openMP in order to satisy the requirement of the assignement
+
